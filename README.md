@@ -1,4 +1,4 @@
-Firewall using Python
+!!Firewall using Python
 
 📖 PROJECT OVERVIEW  
 A lightweight and efficient personal firewall developed in Python using the Scapy library.  
@@ -61,8 +61,13 @@ Restart the script — blocked packets will show as 🚫 in the logs.
 2025-10-25 15:51:20 - ✅ ALLOWED: 0.0.0.0 → 255.255.255.255 UDP dport=67 | Allowed  
 
 📸 SCREENSHOTS  
-• **Screenshot 2025-11-26 211403.png** – Displays the live packet monitoring interface rendered from the GUI module.  
-(Automatically linked from your uploaded file repository.)
+![Firewall Running](screenshots/firewall.running)
+
+Description: This screenshot displays the live packet monitoring interface from the GUI module.  
+It shows real-time updates of incoming and outgoing network packets.
+
+
+
 
 🧠 LEARNING OUTCOMES  
 • Hands-on experience in packet sniffing and network traffic analysis  
@@ -78,4 +83,4 @@ and anomaly detection, it can be upgraded into a fully capable IDS/IPS solution.
 👨‍💻 AUTHOR  
 **Rupani Ajay Kumar**
 
-📂 Repository: *Personal-Firewall-using-Python*
+📂 Repository: *Firewall-using-Python*
